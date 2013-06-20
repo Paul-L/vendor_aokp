@@ -10,7 +10,7 @@ $(call inherit-product, vendor/aokp/configs/gsm.mk)
 
 # Setup device specific product configuration.
 PRODUCT_DEVICE := i9070
-PRODUCT_NAME := aokp_i9070
+PRODUCT_NAME := aokp_janice
 PRODUCT_BRAND := Samsung
 PRODUCT_MODEL := GT-I9070
 
