@@ -9,9 +9,10 @@ $(call inherit-product, vendor/aokp/configs/gsm.mk)
 
 
 # Setup device specific product configuration.
-PRODUCT_DEVICE := i9070
 PRODUCT_NAME := aokp_janice
-PRODUCT_BRAND := Samsung
+PRODUCT_DEVICE := janice
+PRODUCT_BRAND := samsung
+PRODUCT_MANUFACTURER := samsung
 PRODUCT_MODEL := GT-I9070
 
 # Set build fingerprint / ID / Product Name ect.
